@@ -1,0 +1,55 @@
+projects:
+  first:
+    description: new description
+    tags: []
+    lastUpdated: 1732803956457
+  second:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733325854068
+  second copy:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733325927061
+  first copy:
+    description: new description
+    tags: []
+    lastUpdated: 1733325935925
+  first copy 1:
+    description: new description
+    tags: []
+    lastUpdated: 1733325968490
+  second copy 1:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733325977516
+  first copy 2:
+    description: new description
+    tags: []
+    lastUpdated: 1733325986421
+  second copy 2:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733325995560
+  first copy copy:
+    description: new description
+    tags: []
+    lastUpdated: 1733326005921
+  second copy copy:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733326021502
+  second copy copy 1:
+    description: new description
+    tags:
+      - second
+    lastUpdated: 1733326039446
+  first copy copy 1:
+    description: new description
+    tags: []
+    lastUpdated: 1733326049535
