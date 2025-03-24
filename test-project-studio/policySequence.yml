@@ -1,0 +1,11 @@
+kind: PolicySequence
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: policySequence
+  namespace: dev
+  version: '1.0'
+  tags: []
+spec:
+  transport:
+    - $ref: dev:transport-test:1.0
+    - $ref: dev:transport-test-2:1.0
