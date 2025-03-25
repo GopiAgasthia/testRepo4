@@ -6,4 +6,5 @@ metadata:
   version: '1.0'
   tags: []
 spec:
-  transport: []
+  transport:
+    - $ref: dev:transport-test:1.0
