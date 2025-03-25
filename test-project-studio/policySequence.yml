@@ -7,4 +7,4 @@ metadata:
   tags: []
 spec:
   transport:
-    - $ref: dev:transport-test:1.0
+    - $ref: dev:transport-test-2:2.0
