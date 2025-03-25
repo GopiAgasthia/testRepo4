@@ -1,0 +1,13 @@
+kind: IdentifyAndAuthorize
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: IdentifyAndAuthorize
+  namespace: dev
+  version: '1.0'
+  tags: []
+spec:
+  identificationType:
+    and:
+      apiKey:
+        applicationLookup: global
+  triggerPolicyViolation: true

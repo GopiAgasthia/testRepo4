@@ -1,0 +1,10 @@
+kind: Route
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: StraightThroughRoutingPolicy
+  namespace: dev
+  version: '1.0'
+  tags: []
+spec:
+  default-endpoint:
+    $ref: dev:Endpoint1:1.0

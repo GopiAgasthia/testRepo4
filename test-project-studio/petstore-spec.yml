@@ -9,3 +9,5 @@ metadata:
 spec:
   api-spec:
     $path: petstore-spec-spec.yml
+  policy-sequence:
+    - $ref: dev:policySequence:1.0
