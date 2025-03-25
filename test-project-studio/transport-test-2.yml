@@ -3,6 +3,6 @@ apiVersion: api.webmethods.io/beta
 metadata:
   name: transport-test-2
   namespace: dev
-  version: "1.0"
+  version: 2.0
   tags: []
 spec: {}
