@@ -1,10 +1,9 @@
-kind: Transport
+kind: Route
 apiVersion: api.webmethods.io/beta
 metadata:
-  name: transport-test-2
+  name: loadbalance
   namespace: dev
-  version: 2
+  version: "1.0"
   tags: []
 spec:
-  protocol:
-    - http
+  loadbalance-endpoints: []

@@ -6,4 +6,8 @@ metadata:
   version: '1.0'
   tags: []
 spec:
-  transport: []
+  transport:
+    - $ref: dev:SetMediaType:1.0
+  routing:
+    - $ref: dev:loadbalance:1.0
+    - $ref: dev:straightthrough:1.0

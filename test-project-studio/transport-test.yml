@@ -4,7 +4,9 @@ metadata:
   name: transport-test
   namespace: dev
   version: '1.0'
-  tags: []
+  tags:
+    - tag
+    - tag2
 spec:
   protocol:
     - http

@@ -1,0 +1,10 @@
+kind: SetMediaType
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: SetMediaType
+  namespace: dev
+  version: '1.0'
+  tags: []
+spec:
+  defaultAcceptHeader: application-json
+  defaultContentType: json

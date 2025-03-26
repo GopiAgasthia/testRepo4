@@ -7,7 +7,7 @@ metadata:
   tags: []
 spec:
   identificationType:
-    and:
+    or:
       apiKey:
-        applicationLookup: global
+        applicationLookup: registered
   triggerPolicyViolation: true

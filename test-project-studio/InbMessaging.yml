@@ -1,0 +1,17 @@
+kind: InboundMessaging
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: InbMessaging
+  namespace: dev
+  version: '1.0'
+  tags: []
+spec:
+  alias: alias
+  source:
+    - name: source
+      type: QUEUE
+      contentType: json
+      httpMethod: GET
+      resource: /pets
+      selector:
+        - query

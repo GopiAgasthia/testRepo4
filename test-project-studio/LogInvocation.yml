@@ -1,0 +1,11 @@
+kind: Log
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: LogInvocation
+  namespace: test
+  version: '1.0'
+  tags: []
+spec:
+  destination:
+    - api_gateway
+    - dev_portals
