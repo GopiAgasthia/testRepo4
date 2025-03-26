@@ -11,3 +11,4 @@ spec:
   routing:
     - $ref: dev:loadbalance:1.0
     - $ref: dev:straightthrough:1.0
+    - $ref: dev:straight2:1.0
