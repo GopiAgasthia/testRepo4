@@ -1,7 +1,8 @@
 openapi: 3.1.1
 info:
-  title: ''
+  title: asdffasdasdfasfd
   version: ''
+  summary: afsdfasd
 paths:
   /pets:
     summary: Gets details of all pets
