@@ -2,7 +2,7 @@ kind: Transport
 apiVersion: api.webmethods.io/beta
 metadata:
   name: transport
-  namespace: dev_all
+  namespace: dev
   version: '1.0'
   tags: []
 spec: {}
