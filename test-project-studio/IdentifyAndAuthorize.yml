@@ -7,7 +7,15 @@ metadata:
   tags: []
 spec:
   identificationType:
-    or:
+    and:
       apiKey:
         applicationLookup: registered
-  triggerPolicyViolation: true
+      hostNameAddress:
+        applicationLookup: registered
+      httpBasicAuth:
+        applicationLookup: global
+      openIdConnect:
+        applicationLookup: registered
+      sslCertificate:
+        applicationLookup: default
+  triggerPolicyViolation: false
