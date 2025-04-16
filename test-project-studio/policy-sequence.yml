@@ -8,9 +8,7 @@ metadata:
 spec:
   transport:
     - $ref: dev_test:SetMediaType:1.0
-    - $ref: dev:transport-test-2:2.0
   routing:
-    - $ref: dev:loadbalance:1.0
     - $ref: dev:straightthrough:1.0
   iam:
     - $ref: dev:IdentifyAndAuthorize:1.0

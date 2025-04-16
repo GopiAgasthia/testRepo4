@@ -6,5 +6,5 @@ metadata:
   version: '1.0'
   tags: []
 spec:
-  defaultAcceptHeader: application-yaml
-  defaultContentType: yaml
+  defaultAcceptHeader: application-json
+  defaultContentType: json
