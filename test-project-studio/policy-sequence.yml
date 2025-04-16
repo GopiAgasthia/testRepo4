@@ -8,7 +8,6 @@ metadata:
 spec:
   transport:
     - $ref: dev:transport:alpha
-    - $ref: dev:transport-test-2:2.0
     - $ref: dev_test:SetMediaType:1.0
   routing:
     - $ref: dev:loadbalance:1.0
