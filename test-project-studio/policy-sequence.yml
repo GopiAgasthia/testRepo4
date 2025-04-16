@@ -7,8 +7,8 @@ metadata:
   tags: []
 spec:
   transport:
-    - $ref: dev:transport:alpha
     - $ref: dev_test:SetMediaType:1.0
+    - $ref: dev_test:transport-test:1.0
   routing:
     - $ref: dev:loadbalance:1.0
     - $ref: dev:straightthrough:1.0
