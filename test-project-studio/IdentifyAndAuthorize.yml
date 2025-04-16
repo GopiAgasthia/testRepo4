@@ -18,4 +18,4 @@ spec:
         applicationLookup: registered
       sslCertificate:
         applicationLookup: default
-  triggerPolicyViolation: false
+  triggerPolicyViolation: true

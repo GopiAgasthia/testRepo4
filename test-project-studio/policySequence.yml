@@ -8,7 +8,6 @@ metadata:
 spec:
   transport:
     - $ref: dev:InbMessaging:1.0
-    - $ref: dev:transport-test-2:2.0
   iam:
     - $ref: dev:IdentifyAndAuthorize:1.0
   routing:
