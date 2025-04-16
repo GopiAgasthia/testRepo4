@@ -7,8 +7,8 @@ metadata:
   tags: []
 spec:
   transport:
-    - $ref: dev:transport-test:1.0
     - $ref: dev:InbMessaging:1.0
+    - $ref: dev:transport-test:1.0
   iam:
     - $ref: dev:IdentifyAndAuthorize:1.0
   routing:
