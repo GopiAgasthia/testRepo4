@@ -1,0 +1,10 @@
+kind: test
+apiVersion: api.webmethods.io/beta
+metadata:
+  name: test2
+  namespace: whvev
+  version: '1.0'
+  tags: []
+spec:
+  api:
+    $ref: ''
