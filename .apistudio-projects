@@ -1,1 +1,8 @@
-projects: {}
+projects:
+  Sampleproject 1-554705:
+    description: Sample IAM project with API definitions and policies
+    tags:
+      - sample
+      - IAM
+      - API
+    lastUpdated: 1759764554709
