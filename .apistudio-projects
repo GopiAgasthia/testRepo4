@@ -6,3 +6,10 @@ projects:
       - IAM
       - API
     lastUpdated: 1759813244473
+  Sampleproject 2-248566:
+    description: Sample IAM project with API definitions and policies
+    tags:
+      - sample
+      - IAM
+      - API
+    lastUpdated: 1759813248573
