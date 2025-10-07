@@ -1,15 +1,1 @@
-projects:
-  Sampleproject 1-521145:
-    description: Sample IAM project with API definitions and policies
-    tags:
-      - sample
-      - IAM
-      - API
-    lastUpdated: 1759812521147
-  Sampleproject 2-524782:
-    description: Sample IAM project with API definitions and policies
-    tags:
-      - sample
-      - IAM
-      - API
-    lastUpdated: 1759812524784
+projects: {}
