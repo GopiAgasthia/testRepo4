@@ -11,3 +11,15 @@ projects:
       - sample
       - API
     lastUpdated: 1759943256874
+  Sampleproject 1-644363 copy:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1759943646084
+  Sampleproject 2-644377 copy:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+    lastUpdated: 1759943646084
