@@ -1,13 +1,1 @@
-projects:
-  Sampleproject1-773237:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760617773257
-  Sampleproject2-773244:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760617773257
+projects: {}
