@@ -1,73 +1,13 @@
 projects:
-  Sampleproject1-180865:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760697180889
-  Sampleproject2-180877:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760697180889
-  Sampleproject1-423519:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760697424056
   Sampleproject2-423530:
     description: Sample project with API definitions and policies
     tags:
       - sample
       - API
     lastUpdated: 1760697424056
-  Sampleproject1-054525:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760699055064
-  Sampleproject2-054536:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760699055064
-  Sampleproject1-248491:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760699249031
   Sampleproject2-248502:
     description: Sample project with API definitions and policies
     tags:
       - sample
       - API
     lastUpdated: 1760699249031
-  Sampleproject1-244324:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760701246319
-  Sampleproject2-244335:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760701246319
-  Sampleproject1-186186:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760702187786
-  Sampleproject2-186199:
-    description: Sample project with API definitions and policies
-    tags:
-      - sample
-      - API
-    lastUpdated: 1760702187786
